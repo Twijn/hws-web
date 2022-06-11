@@ -1,0 +1,19 @@
+{
+  "name": "hws-web",
+  "version": "1.0.0",
+  "description": "Express web application for HWS plugin",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Twijn/hws-web.git"
+  },
+  "author": "Twijn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Twijn/hws-web/issues"
+  },
+  "homepage": "https://github.com/Twijn/hws-web#readme"
+}
